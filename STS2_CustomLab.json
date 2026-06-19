@@ -1,0 +1,10 @@
+{
+  "id": "STS2_CustomLab",
+  "name": "STS2 Custom Lab",
+  "author": "codex",
+  "description": "Configurable starting deck and encounter enemy override for Slay the Spire 2.",
+  "version": "0.1.0",
+  "has_pck": false,
+  "has_dll": true,
+  "affects_gameplay": true
+}

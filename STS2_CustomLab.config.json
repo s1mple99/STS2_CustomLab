@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "startingDeck": {
+    "enabled": true,
+    "characters": [
+      "IRONCLAD"
+    ],
+    "cards": [
+      {
+        "id": "AGGRESSION",
+        "count": 1,
+        "upgrades": 0
+      }
+    ]
+  },
+  "enemyEncounter": {
+    "enabled": false,
+    "roomTypes": [],
+    "floors": [],
+    "monsters": []
+  }
+}
