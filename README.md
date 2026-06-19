@@ -29,7 +29,7 @@ Language / 语言：[中文](#中文) | [English](#english)
 将本仓库中的三个文件复制到《Slay the Spire 2》的 Mod 目录：
 
 ```text
-Slay the Spire 2 v0.102.0/mods/STS2_CustomLab/
+Slay the Spire 2/mods/STS2_CustomLab
 ```
 
 目录结构应为：
@@ -88,7 +88,7 @@ STS2_CustomLab/
 Copy the three files in this repository into your Slay the Spire 2 mod folder:
 
 ```text
-Slay the Spire 2 v0.102.0/mods/STS2_CustomLab/
+Slay the Spire 2/mods/STS2_CustomLab
 ```
 
 Expected layout:
